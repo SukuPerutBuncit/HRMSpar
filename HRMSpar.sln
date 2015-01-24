@@ -5,28 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSpar.Business", "HRMSpar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSpar.Entities", "HRMSpar.Entities\HRMSpar.Entities.csproj", "{A6784269-C45A-45C3-B747-576DA09001CE}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HRMSparWeb", "http://localhost:41593", "{74F17017-B497-4EDC-8D30-3D980CCA7A9C}"
-	ProjectSection(WebsiteProperties) = preProject
-		UseIISExpress = "true"
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_41593"
-		Debug.AspNetCompiler.PhysicalPath = "..\HRMSparWeb\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_41593\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_41593"
-		Release.AspNetCompiler.PhysicalPath = "..\HRMSparWeb\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_41593\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "..\HRMSparWeb\"
-		DefaultWebSiteLanguage = "Visual C#"
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +19,6 @@ Global
 		{A6784269-C45A-45C3-B747-576DA09001CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6784269-C45A-45C3-B747-576DA09001CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6784269-C45A-45C3-B747-576DA09001CE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{74F17017-B497-4EDC-8D30-3D980CCA7A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74F17017-B497-4EDC-8D30-3D980CCA7A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74F17017-B497-4EDC-8D30-3D980CCA7A9C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{74F17017-B497-4EDC-8D30-3D980CCA7A9C}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
