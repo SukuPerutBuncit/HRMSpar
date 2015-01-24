@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSpar.Business", "HRMSpar.Business\HRMSpar.Business.csproj", "{A883D2D8-ADD9-4A21-9279-D17D40574C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSpar.Entities", "HRMSpar.Entities\HRMSpar.Entities.csproj", "{A6784269-C45A-45C3-B747-576DA09001CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A883D2D8-ADD9-4A21-9279-D17D40574C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A883D2D8-ADD9-4A21-9279-D17D40574C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A883D2D8-ADD9-4A21-9279-D17D40574C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A883D2D8-ADD9-4A21-9279-D17D40574C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6784269-C45A-45C3-B747-576DA09001CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6784269-C45A-45C3-B747-576DA09001CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6784269-C45A-45C3-B747-576DA09001CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6784269-C45A-45C3-B747-576DA09001CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
